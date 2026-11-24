@@ -1,0 +1,2 @@
+Activity 2 Q&A
+If you save the first score before checking the second, a bad second score will fail the update while leaving the first score accidentally overwritten corrupting the student's grade.
